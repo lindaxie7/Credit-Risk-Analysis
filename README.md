@@ -1,20 +1,24 @@
 # Credit_Risk_Analysis
 
 ## Overview of Project
-Explain the purpose of this analysis.
+Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, I oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, I use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, I compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Then, I evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+- Naive Random Oversampling results: balanced accuracy score is 50%, the precision is at 99% and the recall is 99%
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- SMOTE oversampling results: balanced accuracy score is 63%, the precision is at 99% and the recall is 64%
 
-- What can you conclude about the Outcomes based on Goals?
+- Undersampling results: balanced accuracy score is 52%, the precision is at 99% and the recall is 41%
 
-- What are some limitations of this dataset?
+- Combination(over and undersampling) results: balanced accuracy score is 52%, the precision is at 99% and the recall is 57%
 
-- What are some other possible tables and/or graphs that we could create?
+- Balanced Random Forest Classifier results: balanced accuracy score is 99.6%, the precision is at 100% and the recall is 100%
+
+- Easy Ensemble AdaBoost Classifier results: balanced accuracy score is 94.2%, the precision is at 99% and the recall is 94%
+
+
 
 ## Summary
- Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+ In our first four models our accuracy score is not as high as the ensemble classifiers and the recall in the oversampling/undersampling/mixed models is low as well. Typically in your models you want a good balance of recall and precision which is why I recommend the ensemble classifiers over the first four models. It appears that the Easy Ensemble had the best balance of all the models because of it's high accuracy score and good balance of precision and recall scores.
