@@ -18,6 +18,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ![Untitled3](https://user-images.githubusercontent.com/38533045/140630163-c58c8624-600c-40ee-80dc-1d4bfa94c7eb.png)
 
 - Combination(over and undersampling) results: balanced accuracy score is 52%, the precision is at 99% and the recall is 57%
+![Untitled4](https://user-images.githubusercontent.com/38533045/140630196-2f663d55-e9c4-450b-ad76-e3fd0da7802e.png)
+
 
 - Balanced Random Forest Classifier results: balanced accuracy score is 99.6%, the precision is at 100% and the recall is 100%
 
