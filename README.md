@@ -15,6 +15,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 - Undersampling results: balanced accuracy score is 52%, the precision is at 99% and the recall is 41%
+![Untitled3](https://user-images.githubusercontent.com/38533045/140630163-c58c8624-600c-40ee-80dc-1d4bfa94c7eb.png)
 
 - Combination(over and undersampling) results: balanced accuracy score is 52%, the precision is at 99% and the recall is 57%
 
