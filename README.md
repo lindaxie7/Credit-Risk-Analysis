@@ -10,6 +10,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ![Untitled](https://user-images.githubusercontent.com/38533045/140629997-035b0c79-c1cd-4f7a-b26a-7aed395eef0b.png)
 
 - SMOTE oversampling results: balanced accuracy score is 63%, the precision is at 99% and the recall is 64%
+![Untitled2](https://user-images.githubusercontent.com/38533045/140630005-3d1f0d66-246a-4a1f-9661-195b7bd7b3f8.png)
 
 - Undersampling results: balanced accuracy score is 52%, the precision is at 99% and the recall is 41%
 
