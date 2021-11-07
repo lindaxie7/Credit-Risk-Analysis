@@ -22,6 +22,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 - Balanced Random Forest Classifier results: balanced accuracy score is 99.6%, the precision is at 100% and the recall is 100%
+![Untitled5](https://user-images.githubusercontent.com/38533045/140630255-0f61eba4-a22f-4146-b4b7-7d2f7f50c705.png)
+
+
 
 - Easy Ensemble AdaBoost Classifier results: balanced accuracy score is 94.2%, the precision is at 99% and the recall is 94%
 
