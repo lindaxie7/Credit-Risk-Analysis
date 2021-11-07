@@ -27,6 +27,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 - Easy Ensemble AdaBoost Classifier results: balanced accuracy score is 94.2%, the precision is at 99% and the recall is 94%
+![Untitled6](https://user-images.githubusercontent.com/38533045/140630310-3fe0bc8e-653a-4172-a9d3-1b5cac3b69d3.png)
 
 
 
