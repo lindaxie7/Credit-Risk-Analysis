@@ -2,9 +2,9 @@
 
 Python Code
 
-[Credit Risk ensemble](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+[Credit Risk ensemble code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 
-[Credit Risk resampling](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+[Credit Risk resampling code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
 
 ## Overview of Project
