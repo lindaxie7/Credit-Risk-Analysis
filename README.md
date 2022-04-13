@@ -1,6 +1,7 @@
 # Credit_Risk_Analysis
 
-[Jupyter Notebook Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+Python Code
+[Credit Risk ensemble](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 
 ## Overview of Project
 Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, I oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, I use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, I compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Then, I evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
