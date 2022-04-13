@@ -3,6 +3,7 @@
 Python Code
 
 [Credit Risk ensemble](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+
 [Credit Risk resampling](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
 
