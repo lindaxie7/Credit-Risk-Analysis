@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-Python Code
+## Python Code
 
 [Credit Risk ensemble code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 
